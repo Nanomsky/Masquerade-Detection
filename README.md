@@ -1,2 +1,2 @@
-# Masquerade_detection
+# Masquerade Detection
  Image classification
